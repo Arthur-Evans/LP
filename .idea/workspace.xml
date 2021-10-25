@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dffb04a3-67b8-4ec1-ab74-e67f730c1051" name="变更" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/zx/account/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zx/account/Account.java" afterDir="false" />
-    </list>
+    <list default="true" id="dffb04a3-67b8-4ec1-ab74-e67f730c1051" name="变更" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,11 +29,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1635162119509</updated>
-      <workItem from="1635162121407" duration="619000" />
+      <workItem from="1635162121407" duration="932000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
