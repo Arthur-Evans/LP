@@ -7,8 +7,8 @@ public class PrimaryMenu {
 
     public static int primaryChoice;
 
-    public static void primaryMenu2(){
-
+    private static void primaryMenu2(){
+        int status;
         InputNormalization showMenu = new InputNormalization();
 
         if("".equals(User.nowLoginUser)){
@@ -21,26 +21,37 @@ public class PrimaryMenu {
             do{
                 try{
                     showMenu.show();
-                    primaryChoice = showMenu.choice;
+                    status = showMenu.choice;
                     break;
                 }catch (Exception ignored){ }
             }while(true);
 
-            SecondaryMenu.primaryMenu2(primaryChoice);
+            SecondaryMenu.primaryMenu2Login(status);
 
         }else {
             System.out.println("--------------------------------");
-            System.out.printf("----当前登录的用户名为：%s--------", User.nowLoginUser);
+            System.out.printf("----当前登录的用户名为：%s--------", User.nowLoginNick);
+            System.out.println();
             System.out.println("1. 退出登录");
             System.out.println("2. 查看登录者详细信息");
             System.out.println("3. 返回");
             System.out.println("--------------------------------");
+
+            do{
+                try{
+                    showMenu.show();
+                    status = showMenu.choice;
+                    break;
+                }catch (Exception ignored){ }
+            }while (true);
+
+            SecondaryMenu.primaryMenu2IsLogin(status);
         }
     }
 
-    public static void showPrimaryMenu() {
+    public static void showPrimaryMenu(int tp) {
 
-        switch (ShowMainBody.getStartOption){
+        switch (tp){
             case 1:
                 System.out.println("没写完");
                 break;
@@ -50,7 +61,6 @@ public class PrimaryMenu {
             case 3:
                 System.out.println("Exit Success!");
                 break;
-
         }
     }
 }

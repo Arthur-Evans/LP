@@ -8,7 +8,7 @@ public abstract class ShowMainBody {
     public static int getStartOption;
 
     public static void mainMenu(){
-
+        int status;
         InputNormalization showMenu = new InputNormalization();
 
         System.out.println("--------------------------------");
@@ -20,12 +20,12 @@ public abstract class ShowMainBody {
         do{
             try{
                 showMenu.show();
-                getStartOption = showMenu.choice;
+                status = showMenu.choice;
                 break;
             }catch (Exception ignored){ }
         }while(true);
 
-        PrimaryMenu.showPrimaryMenu();
+        PrimaryMenu.showPrimaryMenu(status);
     }
 
     public static void main(String[] args) {
