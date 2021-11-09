@@ -10,7 +10,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dffb04a3-67b8-4ec1-ab74-e67f730c1051" name="变更" comment="" />
+    <list default="true" id="dffb04a3-67b8-4ec1-ab74-e67f730c1051" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/zx/entity/UserRoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zx/vo/ShowMainBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zx/vo/showMenu/InputNormalization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zx/vo/showMenu/PrimaryMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zx/vo/showMenu/SecondaryMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zx/vo/showMenu/ThirdLevelMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/zx/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zx/entity/User.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +48,26 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RunManager">
+    <configuration name="ShowMainBody" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zx.vo.ShowMainBody" />
+      <module name="SelfStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zx.vo.showMenu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ShowMainBody" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="应用程序级" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
@@ -52,11 +81,13 @@
       <updated>1635162119509</updated>
       <workItem from="1635162121407" duration="1363000" />
       <workItem from="1635245321717" duration="6000" />
+      <workItem from="1635245533052" duration="21000" />
+      <workItem from="1636420477453" duration="8739000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -69,5 +100,27 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-879" y="-392" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1636426091272">
+      <screen x="-1080" y="-638" width="1080" height="1920" />
+    </state>
+    <state x="-879" y="-392" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1792.1120/-1080.-638.1080.1920@-1080.-638.1080.1920" timestamp="1636426091272" />
+    <state width="1038" height="582" key="GridCell.Tab.0.bottom" timestamp="1636428694030">
+      <screen x="-1080" y="-638" width="1080" height="1920" />
+    </state>
+    <state width="1038" height="582" key="GridCell.Tab.0.bottom/0.0.1792.1120/-1080.-638.1080.1920@-1080.-638.1080.1920" timestamp="1636428694030" />
+    <state width="1038" height="582" key="GridCell.Tab.0.center" timestamp="1636428694028">
+      <screen x="-1080" y="-638" width="1080" height="1920" />
+    </state>
+    <state width="1038" height="582" key="GridCell.Tab.0.center/0.0.1792.1120/-1080.-638.1080.1920@-1080.-638.1080.1920" timestamp="1636428694028" />
+    <state width="1038" height="582" key="GridCell.Tab.0.left" timestamp="1636428694027">
+      <screen x="-1080" y="-638" width="1080" height="1920" />
+    </state>
+    <state width="1038" height="582" key="GridCell.Tab.0.left/0.0.1792.1120/-1080.-638.1080.1920@-1080.-638.1080.1920" timestamp="1636428694027" />
+    <state width="1038" height="582" key="GridCell.Tab.0.right" timestamp="1636428694029">
+      <screen x="-1080" y="-638" width="1080" height="1920" />
+    </state>
+    <state width="1038" height="582" key="GridCell.Tab.0.right/0.0.1792.1120/-1080.-638.1080.1920@-1080.-638.1080.1920" timestamp="1636428694029" />
   </component>
 </project>
