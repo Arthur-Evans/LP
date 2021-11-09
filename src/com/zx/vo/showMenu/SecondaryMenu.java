@@ -58,6 +58,7 @@ public class SecondaryMenu {
     private static void exitLogin(){
         User.nowLoginUser = "";
         User.nowLoginNick = "";
+        PrimaryMenu.showPrimaryMenu(2);
     }
 
     private static void userDetails(){
@@ -65,12 +66,12 @@ public class SecondaryMenu {
         InputNormalization inputNormalization = new InputNormalization();
         System.out.println("这里是用户详细信息");
         System.out.println("--------------------------------");
-        System.out.printf("用户名：%s", "s");
+        System.out.printf("用户名：%s", User.nowLoginUser);
         System.out.println();
-        System.out.printf("：%s", "s");
+        System.out.printf("用户昵称：%s", User.nowLoginNick);
         System.out.println();
-        System.out.printf("用户名：%s", "s");
-        System.out.println();
+        //System.out.printf("用户名：%s", "s");
+        //System.out.println();
         System.out.println("--------------------------------");
         System.out.println("0. 返回");
         System.out.println("--------------------------------");
