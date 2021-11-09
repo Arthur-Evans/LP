@@ -12,16 +12,8 @@
   <component name="ChangeListManager">
     <list default="true" id="dffb04a3-67b8-4ec1-ab74-e67f730c1051" name="变更" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SelfStudy/com/zx/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SelfStudy/com/zx/entity/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SelfStudy/com/zx/vo/ShowMainBody.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SelfStudy/com/zx/vo/ShowMainBody.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SelfStudy/com/zx/vo/showMenu/PrimaryMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SelfStudy/com/zx/vo/showMenu/PrimaryMenu.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/SelfStudy/com/zx/vo/showMenu/SecondaryMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SelfStudy/com/zx/vo/showMenu/SecondaryMenu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SelfStudy/com/zx/vo/showMenu/ThirdLevelMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SelfStudy/com/zx/vo/showMenu/ThirdLevelMenu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zx/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zx/entity/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zx/vo/ShowMainBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zx/vo/ShowMainBody.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zx/vo/showMenu/PrimaryMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zx/vo/showMenu/PrimaryMenu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/zx/vo/showMenu/SecondaryMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zx/vo/showMenu/SecondaryMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zx/vo/showMenu/ThirdLevelMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zx/vo/showMenu/ThirdLevelMenu.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +77,7 @@
       <workItem from="1635162121407" duration="1363000" />
       <workItem from="1635245321717" duration="6000" />
       <workItem from="1635245533052" duration="21000" />
-      <workItem from="1636420477453" duration="14689000" />
+      <workItem from="1636420477453" duration="15697000" />
     </task>
     <servers />
   </component>
@@ -109,21 +101,21 @@
       <screen x="-1080" y="-638" width="1080" height="1920" />
     </state>
     <state x="-879" y="-392" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1792.1120/-1080.-638.1080.1920@-1080.-638.1080.1920" timestamp="1636426091272" />
-    <state width="1038" height="507" key="GridCell.Tab.0.bottom" timestamp="1636445865255">
+    <state width="1038" height="507" key="GridCell.Tab.0.bottom" timestamp="1636446592422">
       <screen x="-1080" y="-638" width="1080" height="1920" />
     </state>
-    <state width="1038" height="507" key="GridCell.Tab.0.bottom/0.0.1792.1120/-1080.-638.1080.1920@-1080.-638.1080.1920" timestamp="1636445865255" />
-    <state width="1038" height="507" key="GridCell.Tab.0.center" timestamp="1636445865251">
+    <state width="1038" height="507" key="GridCell.Tab.0.bottom/0.0.1792.1120/-1080.-638.1080.1920@-1080.-638.1080.1920" timestamp="1636446592422" />
+    <state width="1038" height="507" key="GridCell.Tab.0.center" timestamp="1636446592420">
       <screen x="-1080" y="-638" width="1080" height="1920" />
     </state>
-    <state width="1038" height="507" key="GridCell.Tab.0.center/0.0.1792.1120/-1080.-638.1080.1920@-1080.-638.1080.1920" timestamp="1636445865251" />
-    <state width="1038" height="507" key="GridCell.Tab.0.left" timestamp="1636445865250">
+    <state width="1038" height="507" key="GridCell.Tab.0.center/0.0.1792.1120/-1080.-638.1080.1920@-1080.-638.1080.1920" timestamp="1636446592420" />
+    <state width="1038" height="507" key="GridCell.Tab.0.left" timestamp="1636446592419">
       <screen x="-1080" y="-638" width="1080" height="1920" />
     </state>
-    <state width="1038" height="507" key="GridCell.Tab.0.left/0.0.1792.1120/-1080.-638.1080.1920@-1080.-638.1080.1920" timestamp="1636445865250" />
-    <state width="1038" height="507" key="GridCell.Tab.0.right" timestamp="1636445865253">
+    <state width="1038" height="507" key="GridCell.Tab.0.left/0.0.1792.1120/-1080.-638.1080.1920@-1080.-638.1080.1920" timestamp="1636446592419" />
+    <state width="1038" height="507" key="GridCell.Tab.0.right" timestamp="1636446592421">
       <screen x="-1080" y="-638" width="1080" height="1920" />
     </state>
-    <state width="1038" height="507" key="GridCell.Tab.0.right/0.0.1792.1120/-1080.-638.1080.1920@-1080.-638.1080.1920" timestamp="1636445865253" />
+    <state width="1038" height="507" key="GridCell.Tab.0.right/0.0.1792.1120/-1080.-638.1080.1920@-1080.-638.1080.1920" timestamp="1636446592421" />
   </component>
 </project>
